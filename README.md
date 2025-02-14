@@ -1,1 +1,2 @@
 # Voice-to-Image-AI-Generator
+In a world where artificial intelligence continues to blur the lines between imagination and reality, the ability to turn spoken words into stunning images is no longer a distant dream. With the rise of AI-driven tools, it’s now possible to record your voice, transcribe your speech into text, and generate an image that represents your words — all in real-time! This blog explores how you can build your own Voice-to-Image AI Generator using Streamlit, Deepgram, and OpenAI’s DALL·E.
